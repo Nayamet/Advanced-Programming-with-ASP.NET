@@ -5,6 +5,9 @@
 
 <h2>Index</h2>
 <a href="/Product/Create/" class="btn btn-primary">Add Product</a>
+<br><br>
+<a href="/Cart/Cart/" class="btn btn-success">Cart</a>
+<br>
 <hr>
 <h3>All Products</h3>
 <table class="table table-bordered">
@@ -19,15 +22,16 @@
     
        @foreach(var p in Model)
        {
-           <tr>
-               <td>@p.Id</td>
-               <td>@p.Name</td>
-               <td>@p.Qty</td>
-               <td>@p.Price</td>
-               <td>@p.Description</td>
-               <td><a href="/Product/Edit/@p.Id" class="btn btn-success">Edit</a></td>
-               <td><a href="/Product/Delete/@p.Id" class="btn btn-danger">Delete</a></td>
-           </tr>
+<tr>
+    <td>@p.Id</td>
+    <td>@p.Name</td>
+    <td>@p.Qty</td>
+    <td>@p.Price</td>
+    <td>@p.Description</td>
+    <td><a href="/Product/Edit/@p.Id" class="btn btn-success">Edit</a></td>
+    <td><a href="/Product/Delete/@p.Id" class="btn btn-danger">Delete</a></td>
+    <td><a href="/Cart/AddToCart/@p.Id" class="btn btn-success">Add to Cart</a></td>
+</tr>
        }
 
 </table>

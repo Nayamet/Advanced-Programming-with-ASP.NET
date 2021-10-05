@@ -1,0 +1,25 @@
+﻿@model List<CRUD_Product.Models.Entities.Product>
+@{
+    ViewBag.Title = "Cart";
+}
+
+
+<h2>Cart</h2>
+<table class="table table-bordered">
+    <tr>
+        <th>Name</th>
+        <th>Price</th>
+        <th>Description</th>
+    </tr>
+    @foreach (var p in Model)
+    {
+        <tr>
+            <td>@p.Name</td>
+            <td>@p.Price</td>
+            <td>@p.Description</td>
+        </tr>
+    }
+</table>
+<br />
+<td><a href="/Cart/CheckOut" class="btn btn-success">Check out</a></td>
+

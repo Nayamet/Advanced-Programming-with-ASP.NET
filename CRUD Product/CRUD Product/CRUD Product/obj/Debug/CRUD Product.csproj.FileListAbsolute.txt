@@ -1,3 +1,4 @@
+E:\AIUB\Semester 9\Advanced .net\lab task\CRUD Product\CRUD Product\CRUD Product\obj\Debug\CRUD Product.csproj.CoreCompileInputs.cache
 E:\AIUB\Semester 9\Advanced .net\lab task\CRUD Product\CRUD Product\CRUD Product\bin\CRUD Product.dll.config
 E:\AIUB\Semester 9\Advanced .net\lab task\CRUD Product\CRUD Product\CRUD Product\bin\CRUD Product.dll
 E:\AIUB\Semester 9\Advanced .net\lab task\CRUD Product\CRUD Product\CRUD Product\bin\CRUD Product.pdb
@@ -72,7 +73,6 @@ E:\AIUB\Semester 9\Advanced .net\lab task\CRUD Product\CRUD Product\CRUD Product
 E:\AIUB\Semester 9\Advanced .net\lab task\CRUD Product\CRUD Product\CRUD Product\bin\Newtonsoft.Json.xml
 E:\AIUB\Semester 9\Advanced .net\lab task\CRUD Product\CRUD Product\CRUD Product\bin\Antlr3.Runtime.pdb
 E:\AIUB\Semester 9\Advanced .net\lab task\CRUD Product\CRUD Product\CRUD Product\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-E:\AIUB\Semester 9\Advanced .net\lab task\CRUD Product\CRUD Product\CRUD Product\obj\Debug\CRUD Product.csproj.CoreCompileInputs.cache
 E:\AIUB\Semester 9\Advanced .net\lab task\CRUD Product\CRUD Product\CRUD Product\obj\Debug\CRUD Product.csproj.CopyComplete
 E:\AIUB\Semester 9\Advanced .net\lab task\CRUD Product\CRUD Product\CRUD Product\obj\Debug\CRUD Product.dll
 E:\AIUB\Semester 9\Advanced .net\lab task\CRUD Product\CRUD Product\CRUD Product\obj\Debug\CRUD Product.pdb
